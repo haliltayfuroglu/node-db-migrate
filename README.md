@@ -26,7 +26,7 @@ Support this project by becoming a sponsor. Your logo will show up here with a l
 
 ## Installation
 
-    $ npm install -g db-migrate
+    $ npm install -g db-migrate-bulk
 
 DB-Migrate is now available to you via:
 
@@ -34,13 +34,13 @@ DB-Migrate is now available to you via:
 
 ### As local module
 
-Want to use db-migrate as local module?
+Want to use db-migrate-bulk as local module?
 
-    $ npm install db-migrate
+    $ npm install db-migrate-bulk
 
 DB-Migrate is now available to you via:
 
-    $ node node_modules/db-migrate/bin/db-migrate
+    $ node node_modules/db-migrate-bulk/bin/db-migrate
 
 ## Officially Supported Databases
 
